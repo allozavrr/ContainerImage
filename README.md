@@ -1,1 +1,1 @@
-The link to container image will be here
+The link to pipeline will be here
